@@ -24,4 +24,5 @@
 
 ## CV - a snapshot of my IT life so far 
 
-[Download my CV]()
+[Download my CV](https://github.com/viktorijabb/viktorijabb/files/10716828/CV_Laura.Viktorija.Blumberga_SE.pdf)
+
