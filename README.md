@@ -1,16 +1,27 @@
-### Hi there 👋
+# Glad you stopped by,  I'm Viktorija  :wave: 
 
-<!--
-**viktorijabb/viktorijabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  🔭 I’m currently working on:
+- [ ] Migrating my personal portfolio website to the **Django** framework
+- [ ] Improving how my portfolio website functions using **Javascript**
+- [ ] Learning **MySql** via a CodeFirstGirls course
+- [ ] Building a simple **web browser**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Continuously developing my skills in:
+
+- Python & OOP
+- Django
+- HTML&CSS
+- Javascript
+- Bootstrap
+- SQL
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorijabb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Connect with me: 
+
+[LinkedIn](https://www.linkedin.com/in/viktorija-blumberga-a57556164/)
+
+## CV - a snapshot of my IT life so far 
+
+[Download my CV]()
