@@ -2,9 +2,9 @@
 
 
 ##  🔭 I’m currently working on:
-- [ ] Migrating my personal portfolio website to the **Django** framework
+- [ ] Going through training with FDM Group as a **graduate software dev**
+- [ ] Learning **Java** and **Spring**
 - [ ] Improving how my portfolio website functions using **Javascript**
-- [ ] Learning **MySql** via a CodeFirstGirls course
 - [ ] Building a simple **web browser**
 
 ## 🌱 Continuously developing my skills in:
@@ -20,7 +20,7 @@
 
 ## 📫 Connect with me: 
 
-[LinkedIn](https://www.linkedin.com/in/viktorija-blumberga-a57556164/)
+[LinkedIn](https://www.linkedin.com/in/viktorijablumberga/))
 
 ## CV - a snapshot of my IT life so far 
 
