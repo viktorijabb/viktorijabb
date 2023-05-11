@@ -19,7 +19,7 @@
 
 ## 📫 Connect with me: 
 
-[LinkedIn](https://www.linkedin.com/in/viktorijablumberga/))
+[LinkedIn](https://www.linkedin.com/in/viktorijablumberga/)
 
 ## CV - a snapshot of my IT life so far 
 
