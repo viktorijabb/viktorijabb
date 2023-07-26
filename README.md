@@ -3,7 +3,7 @@
 
 ##  🔭 I’m currently working on:
 - [ ] Going through training with FDM Group as a **graduate software dev**
-- [ ] Learning **Java** and **Spring**
+- [ ] Learning **Java** 
 - [ ] Improving how my portfolio website functions using **Javascript**
 - [ ] Building a simple **web browser**
 
