@@ -2,9 +2,9 @@
 
 
 ##  🔭 I’m currently working on:
-- [ ] Going through training with FDM Group as a **graduate software dev**
+- [ ] Working at FDM Group as a **graduate software dev**
 - [ ] Learning **Java** 
-- [ ] Improving how my portfolio website functions using **Javascript**
+- [ ] Improving how my portfolio website functions using **React.js**
 - [ ] Building a simple **web browser**
 
 ## 🌱 Continuously developing my skills in:
