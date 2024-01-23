@@ -2,18 +2,16 @@
 
 
 ##  🔭 I’m currently working on:
-- [ ] Working at FDM Group as a **graduate software dev**
-- [ ] Learning **Java** 
+- [ ] Working at NatWest as a software engineer
+- [ ] Learning **AWS** 
 - [ ] Improving how my portfolio website functions using **React.js**
-- [ ] Building a simple **web browser**
+- [ ] Building a simple **IntelliJ Idea** plugin
 
 ## 🌱 Continuously developing my skills in:
 
 - Java
-- Python 
-- HTML&CSS
-- Javascript
-- SQL
+- Python
+- Multi-threaded applications
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktorijabb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
